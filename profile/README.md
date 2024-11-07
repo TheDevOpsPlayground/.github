@@ -1,3 +1,5 @@
+![Welcome to TheDevOpsPlayground](https://raw.githubusercontent.com/TheDevOpsPlayground/.github/refs/heads/main/pg.gif)
+
 🏰 **Welcome to TheDevOpsPlayground!** 🚀  
 We're a team of DevOps enthusiasts creating open-source tools and repositories to simplify workflows, streamline processes, and boost productivity for fellow engineers. Here, you'll find solutions for common DevOps challenges—ranging from automation to monitoring—and innovative projects that reflect our collaborative approach to DevOps. 💡
 
